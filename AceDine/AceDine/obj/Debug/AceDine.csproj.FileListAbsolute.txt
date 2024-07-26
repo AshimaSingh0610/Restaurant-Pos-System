@@ -1,0 +1,10 @@
+E:\PROGRAMS\C#\AceDine\AceDine\bin\Debug\AceDine.exe.config
+E:\PROGRAMS\C#\AceDine\AceDine\bin\Debug\AceDine.exe
+E:\PROGRAMS\C#\AceDine\AceDine\bin\Debug\AceDine.pdb
+E:\PROGRAMS\C#\AceDine\AceDine\obj\Debug\AceDine.csproj.AssemblyReference.cache
+E:\PROGRAMS\C#\AceDine\AceDine\obj\Debug\AceDine.Properties.Resources.resources
+E:\PROGRAMS\C#\AceDine\AceDine\obj\Debug\AceDine.csproj.GenerateResource.cache
+E:\PROGRAMS\C#\AceDine\AceDine\obj\Debug\AceDine.csproj.CoreCompileInputs.cache
+E:\PROGRAMS\C#\AceDine\AceDine\obj\Debug\AceDine.exe
+E:\PROGRAMS\C#\AceDine\AceDine\obj\Debug\AceDine.pdb
+E:\PROGRAMS\C#\AceDine\AceDine\obj\Debug\AceDine.Form1.resources
